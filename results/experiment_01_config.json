@@ -1,0 +1,13 @@
+{
+    "project": "Project 3 - Zero-Shot Classification",
+    "experiment": "Experiment 01",
+    "model": "facebook/bart-large-mnli",
+    "framework": "PyTorch",
+    "library": "Hugging Face Transformers",
+    "python_version": "3.13.18 (main, Oct 26 2026, 15:28:15) [GCC 13.3.0]",
+    "torch_version": "2.14.1+cpu",
+    "transformers_version": "5.22.1",
+    "gpu_available": false,
+    "device": "CPU",
+    "status": "Environment configured"
+}
